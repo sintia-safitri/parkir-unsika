@@ -1,3 +1,3 @@
 resolusi dari sistem parkir unsika
 - masuk dan keluar dengan scan barcode yang berisi no plat kendaraan
-- aplikasi dalam bentuk dekstop dengan menggunakan netbeans
+- membuat aplikasi berbasis android
